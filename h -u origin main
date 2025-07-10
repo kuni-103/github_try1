@@ -1,0 +1,61 @@
+[33mcommit 4117744df25fab25baa3860147deb215da028d1d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: kuni-103 <toshiyuki_kunitomi@mail.toyota.co.jp>
+Date:   Thu Jul 10 13:25:47 2025 +0900
+
+    git statusコマンドを追記
+
+[33mcommit 64bdef230ed07817d128511998eb13b4fd59026c[m
+Author: kuni-103 <toshiyuki_kunitomi@mail.toyota.co.jp>
+Date:   Thu Jul 10 11:39:53 2025 +0900
+
+    third.txtの新規作成とgithub_practice.txtにgit rmを追記
+    
+    練習の為
+
+[33mcommit 970da9700ba51713c94806803a5b607a0e9129c5[m
+Author: kuni-103 <toshiyuki_kunitomi@mail.toyota.co.jp>
+Date:   Thu Jul 10 11:33:21 2025 +0900
+
+    second.txtを削除
+    
+    削除の練習
+
+[33mcommit f8219555625eb831b0aed5b01ce8baaec9fc5ede[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: kuni-103 <toshiyuki_kunitomi@mail.toyota.co.jp>
+Date:   Thu Jul 10 11:25:21 2025 +0900
+
+    remote add コマンド.txt追加
+
+[33mcommit 527aea0b0a1d1b7bee5abeb52a5508f91193b252[m
+Author: kuni-103 <toshiyuki_kunitomi@mail.toyota.co.jp>
+Date:   Thu Jul 10 11:09:54 2025 +0900
+
+    日本語変換確認
+
+[33mcommit 2f7dcce201979e4cb6b912a434c3d2febfe3fa19[m
+Author: kuni-103 <toshiyuki_kunitomi@mail.toyota.co.jp>
+Date:   Thu Jul 10 10:57:59 2025 +0900
+
+    Gitbash起動.batを作成
+    
+    日本語変換が上手くいかないので、上記batファイルを作成して起動すれば、日本語変換が問題なくできる
+
+[33mcommit a0dd91922bb2c6ecb2783a564fd78ecff7c02278[m
+Author: kuni-103 <toshiyuki_kunitomi@mail.toyota.co.jp>
+Date:   Thu Jul 10 10:42:23 2025 +0900
+
+    add,commitのコマンドを追記
+    
+    りゆう；こうざ３をじゅこう　したから
+
+[33mcommit 9d0678d808d3c32f5acb761739549679a96670ba[m
+Author: kuni-103 <toshiyuki_kunitomi@mail.toyota.co.jp>
+Date:   Thu Jul 10 09:34:33 2025 +0900
+
+    initial commit
+
+[33mcommit 503e6bea81df10421dc2e9b1a159dfe8a48b7987[m
+Author: kuni-103 <toshiyuki_kunitomi@mail.toyota.co.jp>
+Date:   Thu Jul 10 09:30:31 2025 +0900
+
+    first commit
