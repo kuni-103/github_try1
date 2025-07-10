@@ -1,0 +1,4 @@
+git remote add origin https://github.com/kuni-103/github_try1.git
+
+pushのコマンド
+ git push -u origin main
