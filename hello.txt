@@ -1,1 +1,1 @@
-こんにちは
+echo Hello3 > hello.txt
